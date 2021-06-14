@@ -1,0 +1,5 @@
+variables: Una variable es una forma para almacenar cualquier tipo de informacion y luego utilizarlo.
+String: Un String es una cadena de texto que se escribe a traves de " " (Comillas), por ejemplo "HOLA".
+Funciones: las funciones te sirven para almacenar instrucciones a realizar.
+Declaración IF: el if se utiliza en la vida cotidiana y se utiliza para decir que si esto se cumple realice una accion y si no se cumple que se realice otra, por ejemplo: si mi nombre esta en la lista, entro al boliche/ Si mi nombre no esta en la lista, no entro.
+Valores Booleanos: Los valores booleanos nos sirven para declarar si algo es verdadero o falso. 
