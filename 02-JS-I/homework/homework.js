@@ -239,8 +239,10 @@ function esVocal(letra){
   //Escribe tu código aquí
     var vocal = ["a", "e", "i", "o","u"];
     if (letra.length == 1 ){
-      if (letra == vocal){
+      if (letra != vocal){
         return "Es vocal";
+      }else{
+        return "No es vocal"
       }
     }else{
       return "Dato incorrecto";
