@@ -1,0 +1,7 @@
+For: Principalmente es un bucle o ciclo, esto significa que se va a repetir varias veces pero en el for tenemos un principio y un final, esos dos valores se los asignamos nosotros.
+
+&&: Es un operador logico que significa Y, por ejemplo: me llamo mateo y soy una persona. 
+
+||: Es un operador logico que significa O, por ejemplo:  soy hombre o mujer.
+
+!: Se utiliza para negar, por ejemplo 5 != 4, lo que dice ahi esque 5 no es igual a 4
