@@ -1,5 +1,7 @@
 // No cambies los nombres de las funciones.
 
+const { CLIEngine } = require("eslint");
+
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
@@ -184,6 +186,11 @@ function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
   //si su valor es true y “Soy falso” si su valor es false.
   //Escribe tu código aquí
+    if (valor === true){
+      return "Soy verdadero";
+    }else {
+      return "Soy falso";
+    }
 
 }
 
@@ -191,6 +198,13 @@ function tablaDelSeis(){
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí   
+    let array = [ ];
+    for(var i = 0; i <= 10; i ++){
+   
+      array.push(i * 6);
+
+    }
+    return array;
   
 }
 
