@@ -1,0 +1,9 @@
+Objetos: Un Objeto es una entiedad con propiedades, por ejemplo: un auto que tiene como propiedades: marca - kilometros - año - etc.
+
+Propiedades: las propiedades son lo que integran al objeto, por ejemplo: como dije anterior mente en un auto son (marca, kilometros, etc).
+
+Métodos: Los metodos sirven para realizar acciones, por ejemplo: modificar las propiedades de un objeto.
+
+Bucle for…in: Es un bucle que sirve para iteriar propiedades de los Objetos, no es muy utilizado.
+
+Notación de puntos vs notación de corchetes: las dos formas te sirven para llamar a una propiedad de un objeto, la mas utilizada es con . pero muchas veces se tiene que usar [] para diferentes cosas que lo requieren si o si.
