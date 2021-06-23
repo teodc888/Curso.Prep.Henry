@@ -1,0 +1,3 @@
+prototype: prototype te sirve principalmente para ahorrar memoria porque crear funciones y muchas es muy pesado 
+
+Constructors (de Clases): Los constructores sirven para crear una clase por lo general madre con atributos que luego pueden ser utilizados 
