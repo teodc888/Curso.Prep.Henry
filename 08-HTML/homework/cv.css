@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1#h1xd {
+    color: rgb(0, 77, 77);
+    text-align: center;
+    font-size: 90PX;
+}
+.imagen {
+    text-align: center;
+    
+}
+img#img1 {
+    width: 400px;
+}

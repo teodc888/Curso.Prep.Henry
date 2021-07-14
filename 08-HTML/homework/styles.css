@@ -1,0 +1,26 @@
+body {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+
+h1#h1{
+    color: brown;
+}
+div#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(102, 0, 0);
+    padding: 50px;
+    border-top-style: dashed;
+    border-right-style: double;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+
+}
+span#spanId{
+    font-size: 18px;
+}
+
+img#img{
+    width: 250px;
+}
